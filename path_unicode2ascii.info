@@ -1,0 +1,12 @@
+name = Path unicode2ascii
+description = Convert url from Unicode to Latin character.
+dependencies[] = pathauto
+core = 7.x
+
+; Information added by drupal.org packaging script on 2016-06-09
+version = "7.x-1.0"
+core = "7.x"
+project = "path_unicode2ascii"
+datestamp = "1424525185"
+
+
